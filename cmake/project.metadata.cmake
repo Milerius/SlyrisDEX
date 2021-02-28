@@ -1,8 +1,8 @@
 # Default project values
-set(DEX_PROJECT_NAME "atomicdex-desktop")
-set(DEX_DISPLAY_NAME "AtomicDEX Desktop")
-set(DEX_COMPANY "KomodoPlatform")
-set(DEX_WEBSITE "https://atomicdex.io/")
+set(DEX_PROJECT_NAME "slyris-dex")
+set(DEX_DISPLAY_NAME "slyrisDEX")
+set(DEX_COMPANY "SlyrisOrg")
+set(DEX_WEBSITE "https://github.com/Milerius/SlyrisDEX")
 if (UNIX AND NOT APPLE)
     set(DEX_LINUX_APP_ID "dex.desktop")
 endif ()
